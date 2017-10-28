@@ -1,5 +1,14 @@
 # FriendFinder
 
-In this activity, I build a compatibility-based "FriendFinder" application. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
+In this activity, I build a compatibility-based "FriendFinder" application. This full-stack site will take in results from the survey, then compare the answers with other users. The app will then display the name and picture of the user with the best overall match. 
 
-You will use Express to handle routing. Make sure you deploy your app to Heroku so other users can fill it out.
+# Tech Used
+
+* Heroku 
+* Express 
+* JS
+* Bootstrap 
+* HTML
+
+** Please view the package.json file for all dependencies** 
+
