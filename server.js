@@ -20,11 +20,11 @@ app.use(bodyParser.raw({ type: 'application/vnd.custom-type' }))
 // parse an HTML body into a string
 app.use(bodyParser.text({ type: 'text/html' }))
 
-
 // requiring friends data
 require('./app/routing/apiRoutes.js')(app);
 // requring the html routs
 require('./app/routing/htmlRouts.js')(app);
+
 
 // Starts the server to begin listening
 // =============================================================
